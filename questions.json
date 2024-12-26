@@ -1,0 +1,224 @@
+[
+  {
+    "questionNo": "Q7",
+    "question": "Which number is composite and has more than three factors?",
+    "options": [
+      "9",
+      "12",
+      "13",
+      "17"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Find the sum of A, B and C from the given factor tree.<br><img width='55%' src='./assests/images/1.png'>",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Which of the following are the factors of 72 ?",
+    "options": [
+      "1, 2, 4, 8 , 9, 36, 72",
+      "1, 2, 3, 4, 6, 9, 12, 18, 24, 36, 72",
+      "2, 4, 6, 8, 12, 24, 72",
+      "1, 2, 3, 6, 9, 18, 72"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Which of the following numbers is composite?",
+    "options": [
+      "41",
+      "43",
+      "45",
+      "47"
+    ],
+    "correct": 2
+  },
+  
+  {
+    "questionNo": "Q12",
+    "question": "A two-digit number is such that it is a composite number, divisible by 3, and the sum of its digits is a prime number. What is the smallest possible value of this number?",
+    "options": [
+      "15",
+      "21",
+      "24",
+      "27"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13",
+    "question": "Which number has exactly two factors?",
+    "options": [
+      "60",
+      "61",
+      "62",
+      "63"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14",
+    "question": "Which of the following is the prime factorisation of 56 , where the numbers are written using exponents ?",
+    "options": [
+      "2<sup>7</sup> × 3 ",
+      "2<sup>2</sup> × 7<sup>3</sup>",
+      "2<sup>2</sup> × 7<sup>2</sup>",
+      "2<sup>3</sup> × 7"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q15",
+    "question": "Which of the following numbers has the most factors?",
+    "options": [
+      "120",
+      "121",
+      "122",
+      "123"
+    ],
+    "correct": 0
+  },
+
+  {
+    "questionNo": "Q4",
+    "question": "Find the greatest number which divides 131 and 160 leaving remainder 7 and 5 respectively.",
+    "options": [
+      "12",
+      "21",
+      "31",
+      "33"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Find the number E in the image?<br><img width='55%' src='./assests/images/4.png'>",
+    "options": [
+      "14",
+      "21",
+      "28",
+      "42"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6",
+    "question": "What is the sum of numbers A, B and D from the image?<br><img width='55%' src='./assests/images/3.png'>",
+    "options": [
+      "40",
+      "46",
+      "52",
+      "56"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q7",
+    "question": "What is the HCF of two prime numbers?",
+    "options": [
+      "1",
+      "The smallest prime number",
+      "The largest prime number",
+      "The product of the two prime numbers"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Which of the following pairs of numbers has the same highest common factor (HCF) as 24 and 36?",
+    "options": [
+      "12 and 18",
+      "16 and 20",
+      "15 and 25",
+      "12 and 48"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Which of the following pairs has the same HCF as 15 and 20?",
+    "options": [
+      "10 and 30",
+      "12 and 18",
+      "25 and 35",
+      "9 and 12"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10",
+    "question": "A gym instructor has 24 yoga mats and 36 dumbbells. She wants to divide them into the same number of groups with equal quantities of both items. What is the largest number of groups she can make?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "16"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11",
+    "question": "A teacher has 45 math books and 60 science books. She wants to arrange them into stacks with the same number of books in each stack. What is the largest number of stacks she can make?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12",
+    "question": "Three friends have 90 marbles, 120 marbles, and 150 marbles, respectively. They want to divide all their marbles into bags, each containing the same number of marbles. What is the largest number of marbles each bag can hold?",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "question": "Which of these pairs are not coprime numbers?",
+    "options": [
+      "16, 27",
+      "20, 33",
+      "18, 24",
+      "11, 17"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14",
+    "question": "Which of the following pairs are coprime numbers?",
+    "options": [
+      "14, 21",
+      "15, 28",
+      "18, 24",
+      "35, 50"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15",
+    "question": "Two ropes are 126 meters and 154 meters long, respectively. What is the greatest length of rope that can be used to cut both ropes into smaller pieces of equal length without any remainder?",
+    "options": [
+      "14 meters",
+      "15 meters",
+      "18 meters",
+      "21 meters"
+    ],
+    "correct": 0
+  }
+]
